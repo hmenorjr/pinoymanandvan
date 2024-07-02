@@ -306,23 +306,23 @@ header .navbar {
   -o-animation: wiggle 0.5s linear 0s infinite alternate;
   animation: wiggle 0.5s linear 0s infinite alternate;
 }
-#features {
+#services {
   padding: 100px 0 0;
 }
-#features .feature-block {
+#services .feature-block {
   padding-bottom: 35px;
 }
-#features .feature-block .icon-box {
+#services .feature-block .icon-box {
   margin-bottom: 24px;
 }
-#features .feature-block .icon-box i {
+#services .feature-block .icon-box i {
   display: inline-block;
   line-height: 1;
   font-size: 60px;
   transition: 0.3s;
   color: #80d6a3;
 }
-#features .feature-block h4 {
+#services .feature-block h4 {
   font-size: 20px;
   color: #333;
   position: relative;
@@ -330,7 +330,7 @@ header .navbar {
   margin-bottom: 10px;
   font-weight: 400;
 }
-#features .feature-block p {
+#services .feature-block p {
   font-size: 15px;
   color: #888;
   line-height: 24px;
@@ -338,7 +338,7 @@ header .navbar {
   margin-top: 20px;
   
 }
-#features .showcase-img {
+#services .showcase-img {
   margin-top: 40px;
 }
 #counter {
