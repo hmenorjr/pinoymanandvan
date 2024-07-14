@@ -678,20 +678,20 @@ header .navbar {
 }
 #pricing-table {
   padding: 100px 0 127px;
-  background: #80A3FF;
+  /* background: #80A3FF; */
 }
-#pricing-table .title h2,
+/* #pricing-table .title h2,
 #pricing-table .title p {
   color: #fff;
-}
+} */
 #pricing-table .title h2:before, #pricing-table .title h2:after {
-  background: #fff;
+  background: #80A3FF;
 }
 #pricing-table .block {
-  color: #fff;
+  color: #80A3FF;
 }
 #pricing-table .block ul {
-  border: 1px solid #fff;
+  border: 1px solid #80A3FF;
   padding: 35px 0;
 }
 #pricing-table .block ul li {
@@ -717,19 +717,21 @@ header .navbar {
   font-weight: 300;
 }
 #pricing-table .block ul li:last-child {
-  color: #fff;
+  color: #80A3FF;
   margin-top: 25px;
 }
 #pricing-table .block .btn-buy {
-  border-color: #fff;
+  border-color: #80A3FF;
   border-radius: 25px;
-  color: #fff;
+  color: #80A3FF;
   font-size: 16px;
   display: inline-block;
   font-weight: 600;
   transition: 0.3s;
-  background: #fff;
-  color: #80A3FF;
+  /* background: #fff; */
+  background: #80A3FF;
+  color: #FFF;
+  /* color: #80A3FF; */
 }
 
 
