@@ -716,10 +716,6 @@ header .navbar {
   font-size: 16px;
   font-weight: 300;
 }
-#pricing-table .block ul li:last-child {
-  color: #80A3FF;
-  margin-top: 25px;
-}
 #pricing-table .block .btn-buy {
   border-color: #80A3FF;
   border-radius: 25px;
