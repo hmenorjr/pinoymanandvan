@@ -676,47 +676,47 @@ header .navbar {
 #team .team-overlay .media a:hover {
   color: #80A3FF;
 }
-#pricing-table {
+#how-to {
   padding: 100px 0 127px;
   /* background: #80A3FF; */
 }
-/* #pricing-table .title h2,
-#pricing-table .title p {
+/* #how-to .title h2,
+#how-to .title p {
   color: #fff;
 } */
-#pricing-table .title h2:before, #pricing-table .title h2:after {
+#how-to .title h2:before, #how-to .title h2:after {
   background: #80A3FF;
 }
-#pricing-table .block {
+#how-to .block {
   color: #80A3FF;
 }
-#pricing-table .block ul {
+#how-to .block ul {
   border: 1px solid #80A3FF;
   padding: 35px 0;
 }
-#pricing-table .block ul li {
+#how-to .block ul li {
   padding: 10px 0;
 }
-#pricing-table .block ul li p {
+#how-to .block ul li p {
   text-transform: uppercase;
 }
-#pricing-table .block ul li:first-child {
+#how-to .block ul li:first-child {
   margin-bottom: 26px;
 }
-#pricing-table .block ul li:first-child h4 {
+#how-to .block ul li:first-child h4 {
   padding-bottom: 29px;
   font-size: 20px;
 }
-#pricing-table .block ul li:first-child p {
+#how-to .block ul li:first-child p {
   font-size: 40px;
   line-height: 1;
   font-weight: 600;
 }
-#pricing-table .block ul li:first-child p span {
+#how-to .block ul li:first-child p span {
   font-size: 16px;
   font-weight: 300;
 }
-#pricing-table .block .btn-buy {
+#how-to .block .btn-buy {
   border-color: #80A3FF;
   border-radius: 25px;
   color: #80A3FF;
@@ -731,17 +731,17 @@ header .navbar {
 }
 
 
-#pricing-table .block .btn-buy {
+#how-to .block .btn-buy {
     opacity: 0;
     -webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
     transition: transform 0.3s, opacity 0.3s;
     -webkit-transform: translate3d(0, -15px, 0);
     transform: translate3d(0, -15px, 0);
 }
-#pricing-table .block:hover {
+#how-to .block:hover {
   background:rgba(255, 255, 255, 0.17);
 }
-#pricing-table .block:hover .btn-buy {
+#how-to .block:hover .btn-buy {
   opacity: 1;
   -webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
     transition: transform 0.3s, opacity 0.3s;
