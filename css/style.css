@@ -477,8 +477,7 @@ header .navbar {
   position: relative;
   display: block;
 }
-#testimonial .media .media-left a:before {
-  content: "\f347";
+#testimonial .media .media-left a i {
   position: absolute;
   left: 0;
   top: 0;
