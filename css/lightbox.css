@@ -40,7 +40,7 @@ body:after {
   border: none;
 }
 
-.lb-outerContainer {
+/* .lb-outerContainer {
   position: relative;
   background-color: white;
   *zoom: 1;
@@ -207,4 +207,4 @@ body:after {
   cursor: pointer;
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
   opacity: 1;
-}
+} */
